@@ -118,7 +118,7 @@ dependencies:
   - networkx=2.3=py_0
   - notebook=6.0.0=py37_0
   - ntl=10.3.0=1
-  - numba=0.45.1=py37hb3f55d8_0
+  - numba>=0.45.1
   - numpy=1.17.0=py37h95a1406_0
   - openssl=1.1.1c=h516909a_0
   - opt_einsum=3.0.0=py_0
